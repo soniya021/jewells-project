@@ -1,0 +1,319 @@
+h1 {
+  position: absolute;
+  top: 68%;
+  left: 23%;
+
+  font-family: "Playwrite DK Loopet", sans-serif;
+  font-size: 8rem;
+  color: beige;
+  letter-spacing: 5px;
+}
+h1:hover {
+  color: black;
+}
+.container1 ul {
+  position: absolute;
+  top: 5%;
+  left: 29%;
+  display: flex;
+}
+.container1 li {
+  list-style: none;
+  padding: 20px 30px;
+  font-size: 1.4rem;
+  color: beige;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.container1 li:hover {
+  background-color: purple;
+  color: black;
+  border-radius: 30px;
+  border: 3px solid white;
+  cursor: pointer;
+}
+.container3 ul {
+  position: absolute;
+  top: 6%;
+  left: 80%;
+  /* font-size: 30px; */
+}
+.container3 .material-icons {
+  padding: 5px;
+  font-size: 35px;
+  color: beige;
+  padding: 15px;
+}
+.container3 .material-icons:hover {
+  background-color: purple;
+  border-radius: 30px;
+  border: 3px solid white;
+  cursor: pointer;
+  color: black;
+}
+.container4 h2 {
+  position: absolute;
+  top: 135%;
+  left: 46%;
+  font-size: 1.5rem;
+  font-family: "Playwrite DK Loopet", sans-serif;
+  color: beige;
+}
+.b1 {
+  position: absolute;
+  top: 147%;
+  /* left: 46%; */
+  border: 3px solid silver;
+  width: 99%;
+}
+.b2 {
+  position: absolute;
+  top: 190%;
+  /* left: 46%; */
+  border: 3px solid silver;
+  width: 99%;
+}
+.container4 ul {
+  position: absolute;
+  top: 147%;
+  left: 10%;
+  display: flex;
+}
+.container4 div {
+  padding: 50px;
+}
+.img1 img {
+  border-bottom-left-radius: 40px;
+  border-top-right-radius: 40px;
+  border: 3px solid silver;
+  filter: drop-shadow(0 20px 50px white);
+}
+.img1 img:hover {
+  filter: drop-shadow(0 20px 50px black);
+  transition: 0.4s;
+}
+
+.img2 img {
+  border-bottom-left-radius: 40px;
+  border-top-right-radius: 40px;
+  border: 3px solid silver;
+  filter: drop-shadow(0 20px 50px white);
+}
+.img2 img:hover {
+  filter: drop-shadow(0 20px 50px black);
+  transition: 0.4s;
+}
+.img3 img {
+  border-bottom-left-radius: 40px;
+  border-top-right-radius: 40px;
+  border: 3px solid silver;
+  filter: drop-shadow(0 20px 50px white);
+}
+.img3 img:hover {
+  filter: drop-shadow(0 20px 50px black);
+  transition: 0.4s;
+}
+
+.img4 img {
+  border-bottom-left-radius: 40px;
+  border-top-right-radius: 40px;
+  border: 3px solid silver;
+  filter: drop-shadow(0 20px 50px white);
+}
+.img4 img:hover {
+  filter: drop-shadow(0 20px 50px black);
+  transition: 0.4s;
+}
+.container5 .t1 {
+  position: absolute;
+  top: 250%;
+  opacity: 0.5;
+}
+
+.container5 .t2 img {
+  position: absolute;
+  top: 244%;
+  left: 35%;
+  border-radius: 30px;
+  border: 4px solid silver;
+  filter: drop-shadow(0 20px 50px white);
+}
+.t2 img:hover {
+  filter: drop-shadow(0 20px 50px black);
+  transition: 0.4s;
+}
+.container5 h2 {
+  position: absolute;
+  top: 265%;
+  color: beige;
+  left: 23%;
+  rotate: -90deg;
+  font-size: 4rem;
+}
+.container5 h3 {
+  position: absolute;
+  top: 252%;
+  color: beige;
+  left: 63%;
+  font-size: 2rem;
+}
+.container5 p {
+  position: absolute;
+  top: 265%;
+  color: beige;
+  left: 63%;
+  font-size: 1.2rem;
+}
+.container5 button {
+  position: absolute;
+  top: 285%;
+  color: black;
+  left: 63%;
+  font-size: 1.2rem;
+  padding: 20px;
+  border-radius: 30px;
+  border: none;
+  background-color: plum;
+  box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.5);
+}
+
+.b3 {
+  position: absolute;
+  top: 350%;
+  /* left: 46%; */
+  border: 3px solid silver;
+  width: 99%;
+}
+.b4 {
+  position: absolute;
+  top: 400%;
+  /* left: 46%; */
+  border: 3px solid silver;
+  width: 99%;
+}
+.container6 h4{
+   position: absolute;
+   top: 335%;
+   left:42%;
+   font-size: 2rem;
+   color: beige;
+   font-family: "Playwrite DK Loopet", sans-serif;
+}
+.container6 ul{
+   position: absolute;
+   top: 350%;
+   left:11%;
+   display: flex;
+}
+.container6 div img{
+   padding:40px;
+   border-radius: 50%;
+   filter: drop-shadow(0 20px 50px white);
+}
+.container6 h2{
+   color: beige;
+   font-size: 1.5rem;
+   text-align: center;
+}
+.container7 .c1 {
+   position: absolute;
+   top: 453%;
+   opacity: 0.5;
+}
+.container7 .c2 img {
+   position: absolute;
+   top: 448%;
+   left:35%;
+   border-radius: 30px;
+   filter: drop-shadow(0 20px 50px white);
+   border: 3px solid white;
+}
+.container7 h2{
+   position: absolute;
+   top: 454%;
+   left:65%;
+   font-size: 2rem;
+   color: beige;
+}
+.container7 p{
+   position: absolute;
+   top: 464%;
+   left:65%;
+   color: beige;
+   font-size: 1.5rem;
+}
+.b5{
+  position: absolute;
+  top:560%;
+  /* left: 46%; */
+  border: 3px solid silver;
+  width: 99%;
+}
+.b6{
+  position: absolute;
+  top:600%;
+  /* left: 46%; */
+  border: 3px solid silver;
+  width: 99%;
+}
+.container8 h2{
+  position: absolute;
+  top: 550%;
+  left:45%;
+  font-size: 2rem;
+  color: beige;
+  font-family: "Playwrite DK Loopet", sans-serif;
+}
+.container8 nav{
+  display: flex;
+  position: absolute;
+  top: 560%;
+  left:15%;
+ 
+}
+.container8 div{
+  
+  padding: 100px;
+  text-align: center;
+  color: blanchedalmond;
+}
+.container8 .material-icons{
+  font-size: 160px;
+}
+.container8 h3{
+  font-size: 1.9rem;
+  color: beige;
+}
+.container9 h2{
+  position: absolute;
+  top: 650%;
+  left:28%;
+  font-size: 2rem;
+  color: beige;
+  font-family: "Playwrite DK Loopet", sans-serif;
+}
+.container9 .inputs{
+  position: absolute;
+  top: 660%;
+  left:28%;
+  width: 40%;
+  height: 10%;
+  background-color:blanchedalmond;
+  border-radius: 20px;
+}
+.container9 input{
+  width: 60%;
+  padding: 26px;
+ margin: 14px;
+ 
+}
+.container9 button{
+  padding: 25px;
+  border-radius: 20px;
+  box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.5);
+
+}
+.container9 .img{
+  position: absolute;
+  top: 690%;
+ opacity: 0.5;
+}
